@@ -1,1 +1,1 @@
-# sonfig-server
+# config-server
